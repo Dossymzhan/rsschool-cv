@@ -18,9 +18,9 @@ Communication, self-motivation, teamwork, negotiation and conflict handling
 
 ## Hard skills
 
-* HTML
-* CSS 
-* JavaScript (basics)
-* Git
+- HTML
+- CSS
+- JavaScript (Fundamentals, a little bit OOP)
+- Git
 
-
+## Code
