@@ -43,5 +43,8 @@ console.log(dos);
 * Python Data Structures [certificate](https://coursera.org/share/a234db4187f1339d23c7bef181946d27)
 * The Complete JavaScript Course 2022: From Zero to Expert! on Udemy by Jonas Schmedtmann (80% complete)
 
-## 
+## English
+
+* **B1** according to EPAM Training Center Test
+* **IELTS 7.5 band** Interpress (expired in 2021)
 
