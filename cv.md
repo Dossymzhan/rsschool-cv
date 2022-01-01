@@ -14,7 +14,7 @@ I want to become a full-stack web developer, because it is fascinating and very 
 
 ## Soft skills
 
-Communication, self-motivation, teamwork, negotiotion and conflict handling
+Communication, self-motivation, teamwork, negotiation and conflict handling
 
 ## Hard skills
 
