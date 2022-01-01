@@ -1,2 +1,3 @@
 # rsschool-cv
-CV Markdown
+
+https://dosymzhan.github.io/rsschool-cv/cv
